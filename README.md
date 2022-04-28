@@ -1,14 +1,14 @@
 # BnS Ecommerce Website With Django + React
 
-![DEMO](../master/static/images/1.png)
+![DEMO](../master/static/images/1.jpeg)
 
-![DEMO](../master/static/images/2.png)
+![DEMO](../master/static/images/2.jpeg)
 
-![DEMO](../master/static/images/3.png)
+![DEMO](../master/static/images/3.jpeg)
 
-![DEMO](../master/static/images/4.png)
+![DEMO](../master/static/images/4.jpeg)
 
-![DEMO](../master/static/images/5.png)
+![DEMO](../master/static/images/5.jpeg)
 
 # Features
 
