@@ -1,6 +1,14 @@
 # BnS Ecommerce Website With Django + React
 
-![DEMO](../master/static/images/proshop_django_demo.png)
+![DEMO](../master/static/images/1.png)
+
+![DEMO](../master/static/images/2.png)
+
+![DEMO](../master/static/images/3.png)
+
+![DEMO](../master/static/images/4.png)
+
+![DEMO](../master/static/images/5.png)
 
 # Features
 
